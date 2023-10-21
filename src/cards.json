@@ -1,0 +1,53 @@
+{
+    "cards": [
+        {
+            "label": "flower",
+            "image": "../src/assets/card-images/flowers.png",
+            "id": 0
+        },
+        {
+            "label": "apple",
+            "image": "../src/assets/card-images/apple.png",
+            "id": 1
+        },
+        {
+            "label": "orange",
+            "image": "../src/assets/card-images/orange.png",
+            "id": 2
+        },
+        {
+            "label": "book",
+            "image": "../src/assets/card-images/book.png",
+            "id": 3
+        },
+        {
+            "label": "fish",
+            "image": "../src/assets/card-images/fish.png",
+            "id": 4
+        },
+        {
+            "label": "chair",
+            "image": "../src/assets/card-images/chair.jpg",
+            "id": 5
+        },
+        {
+            "label": "slippers",
+            "image": "../src/assets/card-images/slippers.png",
+            "id": 6
+        },        {
+            "label": "bottle",
+            "image": "../src/assets/card-images/bottle.png",
+            "id": 7
+        },
+        {
+            "label": "pen",
+            "image": "../src/assets/card-images/pen.png",
+            "id": 8
+        },
+        {
+            "label": "pencil",
+            "image": "../src/assets/card-images/pencil.png",
+            "id": 9
+        }
+    ]
+}
