@@ -35,7 +35,6 @@ function App() {
     }
   }
 
-  useEffect()
   const changeTurn = (stat, secondCard) => {
     console.log('next')
     dummyArray = allCards
